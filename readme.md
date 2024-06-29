@@ -1,1 +1,1 @@
-![alt text](bg1.jpg)
+![alt text](bg2.jpg)
